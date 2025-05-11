@@ -28,7 +28,11 @@ FACT Table:
   
 DIMENSION Tables:
 
-SalesTerritory table: contains Name and ID of each Territory with columns [TerritoryID] and [Name].
-Products table: contains details about each product with columns [ProductID], [SubcategoryID], [CategoryID], [Product Name], [Subcategory Name], and [Category Name] that describe full characteristics of each product.
-Date table : contaning dates for historical data and orders data needed for analysis over time 
+    SalesTerritory table: contains Name and ID of each Territory with columns [TerritoryID] and [Name].
+    Products table: contains details about each product with columns [ProductID], [SubcategoryID], [CategoryID], [Product Name], [Subcategory Name], and [Category Name] that describe full characteristics of each      product.
+    Date table : contaning dates for historical data and orders data needed for analysis over time 
+
 The Dimensional Data Model is STAR SCHEMA, as shown below:
+dataModel.png
+![Alt text](images/dataModel.png)
+
