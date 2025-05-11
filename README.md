@@ -34,6 +34,5 @@ DIMENSION Tables:
 
 The Dimensional Data Model is STAR SCHEMA, as shown below:
 dataModel.png
-![Alt text](Adventure-Works-Sales-Analysis-Excel-PowerQuery-PivotTables
-/dataModel.png)
+![Alt text](dataModel.png)
 
