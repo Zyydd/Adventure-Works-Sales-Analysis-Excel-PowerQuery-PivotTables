@@ -49,3 +49,6 @@ Pivot Tables:
 
 FINAL Dashboard:
 ![Alt text](Dashboard.png)
+
+
+data Source -> https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
