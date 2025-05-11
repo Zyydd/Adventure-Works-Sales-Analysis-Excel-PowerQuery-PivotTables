@@ -36,3 +36,8 @@ The Dimensional Data Model is STAR SCHEMA, as shown below:
 dataModel.png
 ![Alt text](dataModel.png)
 
+
+After data preparation in PowerQuery, I loaded data (ONLY the 4 tables mentioned above) into Excel worksheet to start the analysis and visualization processes using Pivot Tables, as shown below:
+
+Pivot Tables:
+![Alt text](Pivottables.png)
