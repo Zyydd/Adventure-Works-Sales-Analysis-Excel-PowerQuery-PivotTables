@@ -42,4 +42,4 @@ dataModel.png
 After data preparation in PowerQuery, I loaded data (ONLY the 4 tables mentioned above) into Excel worksheet to start the analysis and visualization processes using Pivot Tables, as shown below:
 
 Pivot Tables:
-![Alt text](Pivot tables.png)
+![Alt text](Pivot_tables.png)
