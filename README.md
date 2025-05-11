@@ -43,3 +43,9 @@ After data preparation in PowerQuery, I loaded data (ONLY the 4 tables mentioned
 
 Pivot Tables:
 ![Alt text](Pivot_tables.png)
+
+
+4-) I leverege the different types of charts and visuals to create an informative, user-friendly and visually appealing interactive dashboard tailored to manager specific needs, as shown below:
+
+FINAL Dashboard:
+![Alt text](Dashboard.png)
